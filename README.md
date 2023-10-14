@@ -80,6 +80,7 @@ We appreciate and recognize all contributors! Thank you for your support.
 - [Mainak Mukherjee](https://github.com/mainakkaniam)
 - [Jaimin Hapani](https://github.com/JaiminHapani7269)
 - [Shaswata Saha](https://github.com/subhro1530)
+- [Sidramaraddy](https://github.com/sidram403)
 
 ## License
 
